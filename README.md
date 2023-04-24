@@ -1,5 +1,16 @@
 # CPPND: Capstone Snake Game
 
+## Working Environment (I have confirmed.)
+1. OS Ubuntu (My version is Ubuntu 22.04.2 LTS )
+2. please clone this Snake-Game code into some repositoty player like as workspace.
+3. SDL2 cloned into same repository with this Snake-Game code.
+    https://github.com/libsdl-org/SDL/tree/SDL2
+4. Install library using command below on terminal.
+    sudo apt-get install libsdl2-dev
+    
+    (And using Visual Studio Code, open CppND-Capstone-Snake-Game folder.Next open new Terminal of VSCode. Player will begin this game.)
+
+
 This is for the Capstone project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). The code for this repo was inspired by [this](https://codereview.stackexchange.com/questions/212296/snake-game-in-c-with-sdl) excellent StackOverflow post and set of responses.
 
 <img src="snake_game.gif"/>
